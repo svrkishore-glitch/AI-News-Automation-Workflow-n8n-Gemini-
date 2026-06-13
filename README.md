@@ -123,7 +123,7 @@ Open **n8n** and:
 
 **Kishore**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/svrkishore-glitch
 
 ---
 
